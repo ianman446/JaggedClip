@@ -1,5 +1,0 @@
-﻿  Running UnrealBuildTool: dotnet "..\..\Engine\Binaries\DotNET\UnrealBuildTool\UnrealBuildTool.dll" JaggedClipEditor Win64 Development -Project="C:\ActiveUnrealProject\JaggedClip\JaggedClip\JaggedClip.uproject" -WaitMutex -FromMsBuild
-  Log file: C:\Users\ianma\AppData\Local\UnrealBuildTool\Log.txt
-  Using 'git status' to determine working set for adaptive non-unity build (C:\ActiveUnrealProject\JaggedClip).
-  Target is up to date
-  Total execution time: 0.73 seconds
