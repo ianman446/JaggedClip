@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\activeunrealproject\\jaggedclip\\jaggedclip\\source\\jaggedclip\\jaggedclipgamemodebase.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\activeunrealproject\\jaggedclip\\jaggedclip\\intermediate\\build\\win64\\jaggedclipeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\activeunrealproject\\jaggedclip\\jaggedclip\\intermediate\\build\\win64\\unrealeditor\\development\\jaggedclip\\definitions.jaggedclip.h",
+            "c:\\activeunrealproject\\jaggedclip\\jaggedclip\\source\\jaggedclip\\jaggedclipgamemodebase.h",
+            "c:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\ue_5.1\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\ue_5.1\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\activeunrealproject\\jaggedclip\\jaggedclip\\intermediate\\build\\win64\\unrealeditor\\inc\\jaggedclip\\uht\\jaggedclipgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
